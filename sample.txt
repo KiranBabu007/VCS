@@ -1,1 +1,6 @@
+<<<<<<< Updated upstream
 Hello World!!
+=======
+Hello Git!!!
+new line
+>>>>>>> Stashed changes
