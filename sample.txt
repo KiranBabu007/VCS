@@ -1,16 +1,3 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Hello World!!
-=======
-Hello Git!!!
-new line
->>>>>>> Stashed changes
-=======
-Hello World!!
-newline
->>>>>>> Stashed changes
-=======
-Hello World!!
-newline
->>>>>>> Stashed changes
+hello new world
+added line 2
+
